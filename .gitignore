@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# Archives
+*.xcarchive
+
+# Temporary files
+*.swp
