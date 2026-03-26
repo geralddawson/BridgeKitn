@@ -1,5 +1,7 @@
 
-Download and unzip the app.
+Download the ZIP and double-click to extract the app.
+
+Move the app to Applications.
 
 If macOS blocks it:
 1. Try to open it once
@@ -7,7 +9,6 @@ If macOS blocks it:
 3. Click “Open Anyway”
 
 After that, the app will open normally.
-
 
 ## ⬇️ Download BridgeKitn
 
